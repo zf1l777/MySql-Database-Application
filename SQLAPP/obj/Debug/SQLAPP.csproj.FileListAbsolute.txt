@@ -1,0 +1,16 @@
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\SQLAPP.exe.config
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\SQLAPP.exe
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\SQLAPP.pdb
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\MySql.Data.dll
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\Google.Protobuf.dll
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\Renci.SshNet.dll
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\bin\Debug\MySql.Data.xml
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.Form1.resources
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.Properties.Resources.resources
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.csproj.GenerateResource.cache
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.csproj.CopyComplete
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.exe
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.pdb
+C:\Users\Rene\source\repos\SQLAPP\SQLAPP\obj\Debug\SQLAPP.csprojAssemblyReference.cache
