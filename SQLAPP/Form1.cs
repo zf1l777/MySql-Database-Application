@@ -6,6 +6,7 @@ namespace SQLAPP
 {
     public partial class Form1 : Form
     {   //Connection string to the database within local MySQL Server
+        //Plan on adding the ability to connect via GUI instead of current implementation
         readonly string ConStr = "server=127.0.0.1;user id=root;database=infodb;pwd=kode1234";
 
         public Form1()
